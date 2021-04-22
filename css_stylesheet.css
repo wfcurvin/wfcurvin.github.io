@@ -1,0 +1,17 @@
+P {
+  font-family : Arial;
+}
+BODY {
+  background-color : white;
+  font-size : 15pt
+}
+TABLE {
+  border-style : double;
+  border-color : #333333
+}
+H1 {
+  text-decoration : underline;
+}
+H2 {
+  text-decoration : underline;
+}
